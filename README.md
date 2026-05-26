@@ -14,7 +14,7 @@ Expense tracking web app. Tracks who owes you and who you owe.
 - Delete entries
 
 ## Run
-Open `index.html` in a browser. No setup required.
+Open `index.html` in a browser. Nothing else needed.
 
 ## File Structure
 ```
